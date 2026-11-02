@@ -1,0 +1,197 @@
+timestamp	company	status
+2026-11-02T10:32:05.143Z	Anthropic	network
+2026-11-02T10:32:05.143Z	ByteDance	network
+2026-11-02T10:32:05.143Z	DeepSeek	network
+2026-11-02T10:32:05.143Z	PolyAI	network
+2026-11-02T10:32:05.143Z	Parloa	network
+2026-11-02T10:32:05.143Z	Intercom	network
+2026-11-02T10:32:05.143Z	Hume AI	network
+2026-11-02T10:32:05.143Z	ElevenLabs	network
+2026-11-02T10:32:05.143Z	Deepgram	network
+2026-11-02T10:32:05.143Z	Vapi	network
+2026-11-02T10:32:05.143Z	Bland AI	network
+2026-11-02T10:32:05.143Z	Retool	network
+2026-11-02T10:32:05.143Z	Gem	network
+2026-11-02T10:32:05.143Z	Airtable	network
+2026-11-02T10:32:05.143Z	Vercel	network
+2026-11-02T10:32:05.143Z	Temporal	network
+2026-11-02T10:32:05.143Z	Arize AI	network
+2026-11-02T10:32:05.143Z	RunPod	network
+2026-11-02T10:32:05.143Z	Weights & Biases (CoreWeave)	network
+2026-11-02T10:32:05.143Z	Glean	network
+2026-11-02T10:32:05.143Z	Ada	network
+2026-11-02T10:32:05.143Z	Sierra	network
+2026-11-02T10:32:05.143Z	Decagon	network
+2026-11-02T10:32:05.143Z	Speechmatics	network
+2026-11-02T10:32:05.143Z	n8n	network
+2026-11-02T10:32:05.143Z	Zapier	network
+2026-11-02T10:32:05.143Z	Boomi	network
+2026-11-02T10:32:05.143Z	Cohere	network
+2026-11-02T10:32:05.143Z	LangChain	network
+2026-11-02T10:32:05.143Z	Pinecone	network
+2026-11-02T10:32:05.143Z	Mistral AI	network
+2026-11-02T10:32:05.143Z	Palantir	network
+2026-11-02T10:32:05.143Z	Later	network
+2026-11-02T10:32:05.143Z	Safari AI	network
+2026-11-02T10:32:05.143Z	Hootsuite	network
+2026-11-02T10:32:05.143Z	Klue	network
+2026-11-02T10:32:05.143Z	Glacis AI	network
+2026-11-02T10:32:05.143Z	Semios	network
+2026-11-02T10:32:05.143Z	Ratehub	network
+2026-11-02T10:32:05.143Z	Attio	network
+2026-11-02T10:32:05.143Z	Tinybird	network
+2026-11-02T10:32:05.143Z	Travelperk	network
+2026-11-02T10:32:05.143Z	Channable	network
+2026-11-02T10:32:05.143Z	Shiji Group	network
+2026-11-02T10:32:05.143Z	Aleph Alpha	network
+2026-11-02T10:32:05.143Z	DeepL	network
+2026-11-02T10:32:05.143Z	Black Forest Labs	network
+2026-11-02T10:32:05.143Z	Helsing	network
+2026-11-02T10:32:05.143Z	Celonis	network
+2026-11-02T10:32:05.143Z	Contentful	network
+2026-11-02T10:32:05.143Z	GetYourGuide	network
+2026-11-02T10:32:05.143Z	HelloFresh	network
+2026-11-02T10:32:05.143Z	Allianz	network
+2026-11-02T10:32:05.143Z	N26	network
+2026-11-02T10:32:05.143Z	Trade Republic	network
+2026-11-02T10:32:05.143Z	SumUp	network
+2026-11-02T10:32:05.143Z	Qonto	network
+2026-11-02T10:32:05.143Z	Forto	network
+2026-11-02T10:32:05.143Z	Nortal	network
+2026-11-02T10:32:05.143Z	Lakera	network
+2026-11-02T10:32:05.143Z	Scandit	network
+2026-11-02T10:32:05.143Z	Cradle	network
+2026-11-02T10:32:05.143Z	Hugging Face	network
+2026-11-02T10:32:05.143Z	Photoroom	network
+2026-11-02T10:32:05.143Z	Pigment	network
+2026-11-02T10:32:05.143Z	Diabolocom	network
+2026-11-02T10:32:05.143Z	Wayve	network
+2026-11-02T10:32:05.143Z	Isomorphic Labs	network
+2026-11-02T10:32:05.143Z	PhysicsX	network
+2026-11-02T10:32:05.143Z	Stability AI	network
+2026-11-02T10:32:05.143Z	Synthesia	network
+2026-11-02T10:32:05.143Z	Faculty	network
+2026-11-02T10:32:05.143Z	Causaly	network
+2026-11-02T10:32:05.143Z	Lovable	network
+2026-11-02T10:32:05.143Z	Legora	network
+2026-11-02T10:32:05.143Z	Spotify	network
+2026-11-02T10:32:05.143Z	Klarna	network
+2026-11-02T10:32:05.143Z	BMW Group	network
+2026-11-02T10:32:05.143Z	CARIAD (Volkswagen)	network
+2026-11-02T10:32:05.143Z	Mollie	network
+2026-11-02T10:32:05.143Z	Hotjar	network
+2026-11-02T10:32:05.143Z	Toggl	network
+2026-11-02T10:32:05.143Z	Doist	network
+2026-11-02T10:32:05.143Z	Corti	network
+2026-11-02T10:32:05.143Z	Pleo	network
+2026-11-02T10:32:05.143Z	Templafy	network
+2026-11-02T10:32:05.143Z	Amplemarket	network
+2026-11-02T10:32:05.143Z	Perplexity	network
+2026-11-02T10:32:05.143Z	Clay Labs	network
+2026-11-02T10:32:05.143Z	WorkOS	network
+2026-11-02T10:32:05.143Z	CloudBees	network
+2026-11-02T10:32:05.143Z	Supabase	network
+2026-11-02T10:32:05.143Z	Resend	network
+2026-11-02T10:32:05.143Z	Clerk	network
+2026-11-02T10:32:05.143Z	Inngest	network
+2026-11-02T10:32:05.143Z	PlanetScale	network
+2026-11-02T10:32:05.143Z	Freshworks	network
+2026-11-02T10:32:05.143Z	SolidJobs IT	network
+2026-11-02T10:32:56.898Z	Anthropic	network
+2026-11-02T10:32:56.898Z	ByteDance	network
+2026-11-02T10:32:56.898Z	DeepSeek	network
+2026-11-02T10:32:56.898Z	PolyAI	network
+2026-11-02T10:32:56.898Z	Parloa	network
+2026-11-02T10:32:56.898Z	Intercom	network
+2026-11-02T10:32:56.898Z	Hume AI	network
+2026-11-02T10:32:56.898Z	ElevenLabs	network
+2026-11-02T10:32:56.898Z	Deepgram	network
+2026-11-02T10:32:56.898Z	Vapi	network
+2026-11-02T10:32:56.898Z	Bland AI	network
+2026-11-02T10:32:56.898Z	Retool	network
+2026-11-02T10:32:56.898Z	Gem	network
+2026-11-02T10:32:56.898Z	Airtable	network
+2026-11-02T10:32:56.898Z	Vercel	network
+2026-11-02T10:32:56.898Z	Temporal	network
+2026-11-02T10:32:56.898Z	Arize AI	network
+2026-11-02T10:32:56.898Z	RunPod	network
+2026-11-02T10:32:56.898Z	Weights & Biases (CoreWeave)	network
+2026-11-02T10:32:56.898Z	Glean	network
+2026-11-02T10:32:56.898Z	Ada	network
+2026-11-02T10:32:56.898Z	Sierra	network
+2026-11-02T10:32:56.898Z	Decagon	network
+2026-11-02T10:32:56.898Z	Speechmatics	network
+2026-11-02T10:32:56.898Z	n8n	network
+2026-11-02T10:32:56.898Z	Zapier	network
+2026-11-02T10:32:56.898Z	Boomi	network
+2026-11-02T10:32:56.898Z	Cohere	network
+2026-11-02T10:32:56.898Z	LangChain	network
+2026-11-02T10:32:56.898Z	Pinecone	network
+2026-11-02T10:32:56.898Z	Mistral AI	network
+2026-11-02T10:32:56.898Z	Palantir	network
+2026-11-02T10:32:56.898Z	Later	network
+2026-11-02T10:32:56.898Z	Safari AI	network
+2026-11-02T10:32:56.898Z	Hootsuite	network
+2026-11-02T10:32:56.898Z	Klue	network
+2026-11-02T10:32:56.898Z	Glacis AI	network
+2026-11-02T10:32:56.898Z	Semios	network
+2026-11-02T10:32:56.898Z	Ratehub	network
+2026-11-02T10:32:56.898Z	Attio	network
+2026-11-02T10:32:56.898Z	Tinybird	network
+2026-11-02T10:32:56.898Z	Travelperk	network
+2026-11-02T10:32:56.898Z	Channable	network
+2026-11-02T10:32:56.898Z	Shiji Group	network
+2026-11-02T10:32:56.898Z	Aleph Alpha	network
+2026-11-02T10:32:56.898Z	DeepL	network
+2026-11-02T10:32:56.898Z	Black Forest Labs	network
+2026-11-02T10:32:56.898Z	Helsing	network
+2026-11-02T10:32:56.898Z	Celonis	network
+2026-11-02T10:32:56.898Z	Contentful	network
+2026-11-02T10:32:56.898Z	GetYourGuide	network
+2026-11-02T10:32:56.898Z	HelloFresh	network
+2026-11-02T10:32:56.898Z	Allianz	network
+2026-11-02T10:32:56.898Z	N26	network
+2026-11-02T10:32:56.898Z	Trade Republic	network
+2026-11-02T10:32:56.898Z	SumUp	network
+2026-11-02T10:32:56.898Z	Qonto	network
+2026-11-02T10:32:56.898Z	Forto	network
+2026-11-02T10:32:56.898Z	Nortal	network
+2026-11-02T10:32:56.898Z	Lakera	network
+2026-11-02T10:32:56.898Z	Scandit	network
+2026-11-02T10:32:56.898Z	Cradle	network
+2026-11-02T10:32:56.898Z	Hugging Face	network
+2026-11-02T10:32:56.898Z	Photoroom	network
+2026-11-02T10:32:56.898Z	Pigment	network
+2026-11-02T10:32:56.898Z	Diabolocom	network
+2026-11-02T10:32:56.898Z	Wayve	network
+2026-11-02T10:32:56.898Z	Isomorphic Labs	network
+2026-11-02T10:32:56.898Z	PhysicsX	network
+2026-11-02T10:32:56.898Z	Stability AI	network
+2026-11-02T10:32:56.898Z	Synthesia	network
+2026-11-02T10:32:56.898Z	Faculty	network
+2026-11-02T10:32:56.898Z	Causaly	network
+2026-11-02T10:32:56.898Z	Lovable	network
+2026-11-02T10:32:56.898Z	Legora	network
+2026-11-02T10:32:56.898Z	Spotify	network
+2026-11-02T10:32:56.898Z	Klarna	network
+2026-11-02T10:32:56.898Z	BMW Group	network
+2026-11-02T10:32:56.898Z	CARIAD (Volkswagen)	network
+2026-11-02T10:32:56.898Z	Mollie	network
+2026-11-02T10:32:56.898Z	Hotjar	network
+2026-11-02T10:32:56.898Z	Toggl	network
+2026-11-02T10:32:56.898Z	Doist	network
+2026-11-02T10:32:56.898Z	Corti	network
+2026-11-02T10:32:56.898Z	Pleo	network
+2026-11-02T10:32:56.898Z	Templafy	network
+2026-11-02T10:32:56.898Z	Amplemarket	network
+2026-11-02T10:32:56.898Z	Perplexity	network
+2026-11-02T10:32:56.898Z	Clay Labs	network
+2026-11-02T10:32:56.898Z	WorkOS	network
+2026-11-02T10:32:56.898Z	CloudBees	network
+2026-11-02T10:32:56.898Z	Supabase	network
+2026-11-02T10:32:56.898Z	Resend	network
+2026-11-02T10:32:56.898Z	Clerk	network
+2026-11-02T10:32:56.898Z	Inngest	network
+2026-11-02T10:32:56.898Z	PlanetScale	network
+2026-11-02T10:32:56.898Z	Freshworks	network
+2026-11-02T10:32:56.898Z	SolidJobs IT	network
