@@ -3,6 +3,28 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-at-evalueserve-4476425615 | Evalueserve | Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/fp-a-lead-at-gates-corporation-4485041888 | Gates Corporation | FP&A - Lead
+- [ ] https://in.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4485075503 | ERM | Finance Business Partner CDH
+- [ ] https://in.linkedin.com/jobs/view/associate-analyst-contact-center-reporting-administration-at-united-airlines-india-knowledge-center-4487265137 | United Airlines India Knowledge Center | Associate Analyst - Contact Center Reporting & Administration
+- [ ] https://in.linkedin.com/jobs/view/consultant-fp-a-supply-chain-corporate-apac-at-the-coca-cola-company-4486387974 | The Coca-Cola Company | Consultant, FP&A Supply Chain Corporate APAC
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-at-people-staffing-solutions-4486338462 | People Staffing Solutions | Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-in-india-4487710227 | Accenture in India | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-manager-at-cox-kings-4486573967 | Cox & Kings | Financial Planning and Analysis Manager
+- [ ] https://in.linkedin.com/jobs/view/intercompany-financial-planning-analysis-manager-at-bt-group-4485849087 | BT Group | Intercompany Financial Planning & Analysis Manager
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-at-bsi-4486708080 | BSI | Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/lead-business-analyst-at-fidelity-international-4487759340 | Fidelity International | Lead Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-fops-performance-analytics-at-united-airlines-india-knowledge-center-4487749346 | United Airlines India Knowledge Center | Senior Analyst - FOPS Performance & Analytics
+- [ ] https://in.linkedin.com/jobs/view/senior-bi-analyst-at-comviva-4487732826 | Comviva | Senior BI-Analyst
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-treasury-at-mckinsey-company-4488019804 | McKinsey & Company | Senior Analyst - Treasury
+- [ ] https://in.linkedin.com/jobs/view/business-finance-manager-at-compass-group-india-4488107606 | Compass Group India | Business Finance Manager
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-vetic-4486967290 | Vetic | Financial Planning and Analysis Specialist
+- [ ] https://in.linkedin.com/jobs/view/adviser-planning-and-analysis-at-rio-tinto-4486980128 | Rio Tinto | Adviser - Planning and Analysis
+- [ ] https://in.linkedin.com/jobs/view/financial-systems-analyst-i-fccs-ahcs-epcm-edmcs-gl-at-american-express-4486989356 | American Express | Financial Systems Analyst I (FCCS, AHCS, EPCM,EDMCS, GL)
+- [ ] https://in.linkedin.com/jobs/view/financial-systems-analyst-i-at-american-express-4487312951 | American Express | Financial Systems Analyst I
+- [ ] https://in.linkedin.com/jobs/view/mis-executive-at-jll-4488405659 | JLL | MIS - Executive
+- [ ] https://in.linkedin.com/jobs/view/adviser-planning-and-analysis-at-rio-tinto-4486977290 | Rio Tinto | Adviser - Planning and Analysis
+- [ ] https://in.linkedin.com/jobs/view/lead-analyst-at-american-express-4487367632 | American Express | Lead Analyst
 - [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-in-india-4476368850 | Accenture in India | Financial Plan & Analysis Senior Analyst
 - [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-in-india-4476368858 | Accenture in India | Financial Plan & Analysis Senior Analyst
 - [ ] https://in.linkedin.com/jobs/view/lead-business-analyst-lead-ba-at-bravura-solutions-4481347776 | Bravura Solutions | Lead Business Analyst (Lead BA)
