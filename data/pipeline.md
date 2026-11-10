@@ -3,6 +3,15 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486455590 | Accenture in India | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-senior-analyst-at-accenture-in-india-4486468051 | Accenture in India | Measurement and Report Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486448880 | Accenture in India | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486459561 | Accenture in India | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/analyst-senior-analyst-product-analytics-at-american-express-4486988372 | American Express | Analyst/Senior Analyst - Product Analytics
+- [ ] https://in.linkedin.com/jobs/view/assistant-manager-manager-business-finance-at-scimplify-4487611335 | Scimplify | Assistant Manager / Manager - Business Finance
+- [ ] https://in.linkedin.com/jobs/view/pmo-analyst-at-persistent-systems-4487648718 | Persistent Systems | PMO Analyst
+- [ ] https://in.linkedin.com/jobs/view/category-growth-analyst-at-namshi-com-4488829941 | Namshi.com | Category Growth Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-lead-at-rockwell-automation-4489176356 | Rockwell Automation | Financial Planning and Analysis Lead
 - [ ] https://in.linkedin.com/jobs/view/senior-analyst-at-evalueserve-4476425615 | Evalueserve | Senior Analyst
 - [ ] https://in.linkedin.com/jobs/view/fp-a-lead-at-gates-corporation-4485041888 | Gates Corporation | FP&A - Lead
 - [ ] https://in.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4485075503 | ERM | Finance Business Partner CDH
