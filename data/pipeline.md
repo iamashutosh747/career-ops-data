@@ -3,6 +3,33 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-manager-at-indifi-4488377086 | Indifi | Financial Planning and Analysis Manager
+- [ ] https://in.linkedin.com/jobs/view/fp-a-lead-analyst-at-alight-solutions-4487810402 | Alight Solutions | FP&A Lead Analyst
+- [ ] https://in.linkedin.com/jobs/view/finance-manager-at-wings-pharmaceuticals-pvt-ltd-4489924242 | Wings Pharmaceuticals Pvt. Ltd. | Finance Manager
+- [ ] https://in.linkedin.com/jobs/view/gm-airports-fp-a-at-gmr-group-4489902438 | GMR Group | GM (Airports FP&A) -
+- [ ] https://in.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200 | FNZ | FP&A Associate
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-analyst-at-alaris-aerospace-systems-india-4489924280 | Alaris Aerospace Systems India | Financial Planning Analyst
+- [ ] https://in.linkedin.com/jobs/view/oliver-wyman-lead-business-analyst-sql-excel-hyderabad-or-gurugram-at-marsh-agency-4489994885 | Marsh Agency | Oliver Wyman - Lead Business Analyst (SQL & Excel) - Hyderabad or Gurugram
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-services-pvt-ltd-4489041382 | Accenture services Pvt Ltd | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-analyst-at-accenture-services-pvt-ltd-4489032620 | Accenture services Pvt Ltd | Financial Plan & Analysis Analyst
+- [ ] https://in.linkedin.com/jobs/view/consultant-fp-a-supply-chain-corporate-apac-at-the-coca-cola-company-4489014407 | The Coca-Cola Company | Consultant, FP&A Supply Chain Corporate APAC
+- [ ] https://in.linkedin.com/jobs/view/back-office-business-analyst-at-luxoft-4489922328 | Luxoft | Back Office Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-services-pvt-ltd-4489029788 | Accenture services Pvt Ltd | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-services-pvt-ltd-4489291859 | Accenture services Pvt Ltd | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/fp-a-manager-12%2B-months-remote-india-freelance-at-global-enterprise-partners-4490318026 | Global Enterprise Partners | FP&A Manager - 12+ months - remote - India - freelance
+- [ ] https://in.linkedin.com/jobs/view/senior-finance-manager-at-cox-kings-4489219110 | Cox & Kings | Senior Finance Manager
+- [ ] https://in.linkedin.com/jobs/view/manager-financial-planning-and-analysis-at-genpact-4490338481 | Genpact | Manager-Financial Planning and Analysis
+- [ ] https://in.linkedin.com/jobs/view/assistant-manager-financial-planning-and-analysis-at-genpact-4490354012 | Genpact | Assistant Manager-Financial Planning and Analysis
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-bt-group-4488531603 | BT Group | Financial Planning & Analysis Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-systems-analyst-i-gl-edmcs-fccs-ahcs-epcm-at-american-express-4489246147 | American Express | Financial Systems Analyst I (GL, EDMCS, FCCS, AHCS, EPCM)
+- [ ] https://in.linkedin.com/jobs/view/business-systems-analyst-3-at-mongodb-4489989928 | MongoDB | Business Systems Analyst 3
+- [ ] https://in.linkedin.com/jobs/view/financial-systems-analyst-i-edmcs-fccs-ahcs-epcm-at-american-express-4489228733 | American Express | Financial Systems Analyst I (EDMCS, FCCS, AHCS, EPCM)
+- [ ] https://in.linkedin.com/jobs/view/data-information-analyst-at-citi-4489517082 | Citi | Data Information Analyst
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-services-pvt-ltd-4489296411 | Accenture services Pvt Ltd | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/modern-trade-mis-executive-associate-manager-at-swiss-beauty-4489077683 | Swiss Beauty | Modern Trade MIS Executive / Associate Manager
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-at-travclan-4489248480 | TravClan | Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-services-pvt-ltd-4489501504 | Accenture services Pvt Ltd | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-trade-regulatory-reporting-at-luxoft-4490327531 | Luxoft | Business Analyst - Trade Regulatory Reporting
 - [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486455590 | Accenture in India | Measurement and Report Analyst
 - [ ] https://in.linkedin.com/jobs/view/measurement-and-report-senior-analyst-at-accenture-in-india-4486468051 | Accenture in India | Measurement and Report Senior Analyst
 - [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486448880 | Accenture in India | Measurement and Report Analyst
