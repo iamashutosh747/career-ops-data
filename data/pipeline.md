@@ -3,6 +3,28 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486467046 | Accenture in India | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/analyst-ii-at-niit-4487250276 | NIIT | ANALYST-II
+- [ ] https://in.linkedin.com/jobs/view/associate-bus-systems-analyst-at-moody-s-corporation-4490391223 | Moody's Corporation | Associate Bus Systems Analyst
+- [ ] https://in.linkedin.com/jobs/view/i-f-decision-sci-practitioner-sr-analyst-financial-planning-and-analysis-5-8-yrs-at-archer-4489545406 | Archer | I&F Decision Sci Practitioner Sr Analyst (Financial Planning and Analysis, 5-8 yrs)
+- [ ] https://in.linkedin.com/jobs/view/i-f-decision-sci-practitioner-sr-analyst-financial-planning-and-analysis-3-5-yrs-at-archer-4489541589 | Archer | I&F Decision Sci Practitioner Sr Analyst (Financial Planning and Analysis, 3-5 yrs)
+- [ ] https://in.linkedin.com/jobs/view/fp-a-manager-12%2B-months-remote-india-freelance-at-global-enterprise-partners-4490581856 | Global Enterprise Partners | FP&A Manager - 12+ months - remote - India - freelance
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-vetic-4489547123 | Vetic | Financial Planning and Analysis Specialist
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-at-nutrabay-4489564190 | Nutrabay | Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/data-analytics-analyst-i-b7-at-natwest-group-4490748843 | NatWest Group | Data & Analytics Analyst I B7
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-iii-relay-product-excellence-at-amazon-4455781796 | Amazon | Business Analyst III, Relay Product Excellence
+- [ ] https://in.linkedin.com/jobs/view/sr-financial-analyst-at-alight-solutions-4489533987 | Alight Solutions | Sr. Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-renewable-energy-at-enfinity-global-4489544791 | Enfinity Global | Financial Analyst, Renewable Energy
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-equity-oms-at-gemini-solutions-pvt-ltd-4490594481 | Gemini Solutions Pvt Ltd | Business Analyst - Equity OMS
+- [ ] https://in.linkedin.com/jobs/view/vetic-financial-planning-amp-analysis-role-ca-at-vetic-4491022928 | Vetic | Vetic - Financial Planning &amp; Analysis Role - CA
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-4-at-barclays-4489310479 | Barclays | Business Analyst 4
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-at-barclays-4488902243 | Barclays | Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/supply-chain-financial-analyst-at-aristocrat-4489892150 | Aristocrat | Supply Chain Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/mis-reporting-anaylst-at-ibm-4489379723 | IBM | MIS Reporting Anaylst
+- [ ] https://in.linkedin.com/jobs/view/mis-reporting-analyst-at-ibm-4489387510 | IBM | MIS Reporting Analyst
+- [ ] https://in.linkedin.com/jobs/view/mis-reporting-anaylst-at-hakk%C5%8Dda-an-ibm-company-4491229838 | Hakkōda, an IBM Company | MIS Reporting Anaylst
+- [ ] https://in.linkedin.com/jobs/view/mis-reporting-analyst-at-hakk%C5%8Dda-an-ibm-company-4491251016 | Hakkōda, an IBM Company | MIS Reporting Analyst
+- [ ] https://in.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656 | GamblingCareers.com | Supply Chain Financial Analyst
 - [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-manager-at-indifi-4488377086 | Indifi | Financial Planning and Analysis Manager
 - [ ] https://in.linkedin.com/jobs/view/fp-a-lead-analyst-at-alight-solutions-4487810402 | Alight Solutions | FP&A Lead Analyst
 - [ ] https://in.linkedin.com/jobs/view/finance-manager-at-wings-pharmaceuticals-pvt-ltd-4489924242 | Wings Pharmaceuticals Pvt. Ltd. | Finance Manager
