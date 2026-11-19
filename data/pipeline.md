@@ -3,6 +3,43 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/mis-executive-at-nirvasa-ayurveda-4481635503 | Nirvasa Ayurveda | MIS Executive
+- [ ] https://in.linkedin.com/jobs/view/lead-performance-reporting-analyst-at-crisil-4481648723 | Crisil | Lead Performance Reporting Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-services-pvt-ltd-4485144876 | Accenture services Pvt Ltd | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-services-pvt-ltd-4485143819 | Accenture services Pvt Ltd | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-services-pvt-ltd-4485145840 | Accenture services Pvt Ltd | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-senior-analyst-at-accenture-in-india-4486463256 | Accenture in India | Measurement and Report Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/research-analyst-senior-research-analyst-valuations-at-crisil-4486823696 | Crisil | Research Analyst / Senior Research Analyst - Valuations
+- [ ] https://in.linkedin.com/jobs/view/manager-fp-a-at-gmr-group-4487243697 | GMR Group | Manager FP&A -
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-senior-analyst-at-accenture-services-pvt-ltd-4486354577 | Accenture services Pvt Ltd | Measurement and Report Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/india-senior-analyst-finance-project-reporting-at-boston-consulting-group-bcg-4469064820 | Boston Consulting Group (BCG) | India Senior Analyst Finance - Project Reporting
+- [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-services-pvt-ltd-4486363360 | Accenture services Pvt Ltd | Measurement and Report Analyst
+- [ ] https://in.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073 | Gallagher & Mohan | Asset Management Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-business-finance-at-hp-4490909175 | HP | Financial Analyst-Business Finance
+- [ ] https://in.linkedin.com/jobs/view/assistant-manager-fp-a-at-lixil-4489798018 | LIXIL | Assistant Manager FP&A
+- [ ] https://in.linkedin.com/jobs/view/analyst-non-labor-reporting-at-pfi-innovation-centre-india-4491522218 | PFI Innovation Centre India | Analyst, Non-Labor Reporting
+- [ ] https://in.linkedin.com/jobs/view/analyst-labor-reporting-at-pfi-innovation-centre-india-4491515679 | PFI Innovation Centre India | Analyst, Labor Reporting
+- [ ] https://in.linkedin.com/jobs/view/delivery-operations-senior-analyst-at-accenture-in-india-4491529488 | Accenture in India | Delivery Operations Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/e-comm-finance-manager-at-greytoyellow-4490264662 | GreyToYellow | E-comm Finance Manager
+- [ ] https://in.linkedin.com/jobs/view/country-finance-business-partner-at-fresenius-medical-care-4491724456 | Fresenius Medical Care | Country Finance Business Partner
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-at-gartner-4491446178 | Gartner | Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/bi-a-analyst-at-boston-consulting-group-bcg-4491154506 | Boston Consulting Group (BCG) | BI&A Analyst
+- [ ] https://in.linkedin.com/jobs/view/business-systems-analyst-3-at-mongodb-4491541980 | MongoDB | Business Systems Analyst 3
+- [ ] https://in.linkedin.com/jobs/view/bi-a-analyst-at-boston-consulting-group-bcg-4491167202 | Boston Consulting Group (BCG) | BI&A Analyst
+- [ ] https://in.linkedin.com/jobs/view/gfcc-enablement-reporting-analyst-compliance-at-american-express-4491166304 | American Express | GFCC Enablement Reporting Analyst- Compliance
+- [ ] https://in.linkedin.com/jobs/view/assistant-manager-%E2%80%93-financial-analyst-at-putnam-4490477638 | Putnam | Assistant Manager – Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/senior-financial-analyst-at-american-express-4491166336 | American Express | Senior Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/finance-manager-healthcare-at-rg-stone-urology-laparoscopy-hospital-4491168182 | RG Stone Urology & Laparoscopy Hospital | Finance Manager (Healthcare)
+- [ ] https://in.linkedin.com/jobs/view/mis-executive-collections-at-paisabazaar-4491144027 | Paisabazaar | MIS Executive-Collections
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-at-indusind-bank-4490453352 | IndusInd Bank | Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/senior-business-analyst-at-hirojet-4491102718 | HiroJet | Senior Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-i-fp-a-at-cvent-4491841828 | Cvent | Senior Analyst I FP&A
+- [ ] https://in.linkedin.com/jobs/view/fp-a-manager-at-tide-4491432564 | Tide | FP&A Manager
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-at-american-express-4491829755 | American Express | Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/analyst-data-analytics-at-american-express-4491870677 | American Express | Analyst-Data Analytics
+- [ ] https://in.linkedin.com/jobs/view/financial-plan-analysis-senior-analyst-at-accenture-in-india-4492230009 | Accenture in India | Financial Plan & Analysis Senior Analyst
+- [ ] https://in.linkedin.com/jobs/view/financial-analyst-i-at-american-express-4491830717 | American Express | Financial Analyst I
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-r2r-at-carrier-4491328704 | Carrier | Senior Analyst - R2R
 - [ ] https://in.linkedin.com/jobs/view/measurement-and-report-analyst-at-accenture-in-india-4486467046 | Accenture in India | Measurement and Report Analyst
 - [ ] https://in.linkedin.com/jobs/view/analyst-ii-at-niit-4487250276 | NIIT | ANALYST-II
 - [ ] https://in.linkedin.com/jobs/view/associate-bus-systems-analyst-at-moody-s-corporation-4490391223 | Moody's Corporation | Associate Bus Systems Analyst
