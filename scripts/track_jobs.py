@@ -60,7 +60,11 @@ def main():
     for j in ab: lines.append(f"- {j['title']} | {j['company']} | {j['location']} | {j['posted']} | {j['url']}")
     open(f"{ROOT}/data/new-jobs-{TODAY}.md","w").write("\n".join(lines)+"\n")
     p = f"{ROOT}/data/pipeline.md"; t = open(p).read()
-    add = "".join(f"- [ ] {j['url']} | {j['company']} | {j['title']}\n" for j in ir if not j.get("qual_required"))
+    seen_keys = set(); add = ""
+    for j in ir:
+        k = (re.sub(r"\W+","",j["company"]).lower(), re.sub(r"\W+","",j["title"]).lower())
+        if j.get("qual_required") or k in seen_keys or any(f"| {j['company']} | {j['title']}" in line for line in t.splitlines()): continue
+        seen_keys.add(k); add += f"- [ ] {j['url']} | {j['company']} | {j['title']}\n"
     if add and "## Pending" in t: t = t.replace("## Pending\n", "## Pending\n"+add, 1); open(p,"w").write(t)
     print(json.dumps(dict(found=len(found), matched=len(cand), new=len(new), in_range=len(ir), above=len(ab))))
 main()
