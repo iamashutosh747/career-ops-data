@@ -3,6 +3,20 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/lead-business-planning-and-operations-motorola-at-lenovo-4483602503 | Lenovo | Lead - Business Planning and Operations, Motorola
+- [ ] https://in.linkedin.com/jobs/view/fp-a-commercial-finance-lead-india-at-gates-corporation-4483021792 | Gates Corporation | FP&A & Commercial Finance Lead, India
+- [ ] https://in.linkedin.com/jobs/view/group-leader-business-finance-at-niit-4492792067 | NIIT | GROUP LEADER - BUSINESS FINANCE
+- [ ] https://in.linkedin.com/jobs/view/analyst-gurugram-at-colliers-4493233203 | Colliers | Analyst | Gurugram
+- [ ] https://in.linkedin.com/jobs/view/senior-financial-analyst-at-acca-careers-4494120707 | ACCA Careers | Senior Financial Analyst
+- [ ] https://in.linkedin.com/jobs/view/finance-manager-hotel-background-only-at-pasban-the-gatekeeper-4492391557 | Pasban - The Gatekeeper | Finance Manager - Hotel background only
+- [ ] https://in.linkedin.com/jobs/view/sr-analyst-aircraft-maintenance-strategy-planning-at-united-airlines-india-knowledge-center-4493676995 | United Airlines India Knowledge Center | Sr Analyst - Aircraft Maintenance Strategy & Planning
+- [ ] https://in.linkedin.com/jobs/view/financial-consultant-financial-planning-and-analysis-at-optum-4493039970 | Optum | Financial Consultant - Financial Planning and Analysis,
+- [ ] https://in.linkedin.com/jobs/view/sr-financial-analyst-fp-a-at-chargepoint-4492695448 | ChargePoint | Sr. Financial Analyst, FP&A
+- [ ] https://in.linkedin.com/jobs/view/commercial-finance-manager-south-asia-at-glanbia-4494114305 | Glanbia | Commercial Finance Manager, South Asia
+- [ ] https://in.linkedin.com/jobs/view/assistant-manager-fp-a-financial-planning-controlling-analysis-at-hilti-india-4492689644 | Hilti India | Assistant Manager - FP&A (Financial Planning / Controlling & Analysis)
+- [ ] https://in.linkedin.com/jobs/view/sr-analyst-wfm-mis-reporting-at-concentrix-4493008344 | Concentrix | Sr. Analyst, WFM MIS Reporting
+- [ ] https://in.linkedin.com/jobs/view/commerce-intelligence-analyst-at-criteo-4494124523 | Criteo | Commerce Intelligence Analyst
+- [ ] https://in.linkedin.com/jobs/view/commerce-intelligence-analyst-at-criteo-deutschland-4493014725 | Criteo Deutschland | Commerce Intelligence Analyst
 - [ ] https://in.linkedin.com/jobs/view/rc-fs-bti-ins-retirement-business-analyst-manager-at-ey-4460737080 | EY | RC FS - BTI INS - Retirement Business Analyst-Manager
 - [ ] https://in.linkedin.com/jobs/view/senior-analyst-strategy-consulting-mena-at-jll-4489461530 | JLL | Senior Analyst - Strategy Consulting - MENA
 - [ ] https://in.linkedin.com/jobs/view/financial-systems-analyst-i-at-american-express-4489246147 | American Express | Financial Systems Analyst I
