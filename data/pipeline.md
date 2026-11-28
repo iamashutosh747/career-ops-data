@@ -3,6 +3,34 @@
 Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
+- [ ] https://in.linkedin.com/jobs/view/senior-mis-executive-ai-at-evarastaffing-4486031267 | Evarastaffing | SENIOR MIS EXECUTIVE AI
+- [ ] https://in.linkedin.com/jobs/view/senior-finance-analyst-contract-to-billing-at-jll-4487022743 | JLL | Senior Finance Analyst - Contract to Billing
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-finance-business-partner-at-mastercard-4481471722 | Mastercard | Senior Analyst, Finance Business Partner
+- [ ] https://in.linkedin.com/jobs/view/business-analytics-analyst-sql-python-and-sas-at-citi-4492860238 | Citi | Business Analytics Analyst, SQL, Python and SAS
+- [ ] https://in.linkedin.com/jobs/view/senior-financial-planning-and-analysis-fp-a-at-gallagher-mohan-4494663109 | Gallagher & Mohan | Senior Financial Planning and Analysis (FP&A)
+- [ ] https://in.linkedin.com/jobs/view/asst-manager-manager-fp-a-business-partner-cogs-at-cvent-4494781298 | Cvent | Asst. Manager / Manager - FP&A Business Partner - COGS
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-data-analytics-at-american-express-4494908637 | American Express | Senior Analyst-Data Analytics
+- [ ] https://in.linkedin.com/jobs/view/piim-analyst-at-bechtel-corporation-4494612554 | Bechtel Corporation | PIIM Analyst
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-fp-a-technology-at-cvent-4494781610 | Cvent | Senior Analyst, FP&A (Technology)
+- [ ] https://in.linkedin.com/jobs/view/senior-financial-planning-manager-at-incedo-inc-4494494744 | Incedo Inc. | Senior Financial Planning Manager
+- [ ] https://in.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-bti-executive-search-4495030807 | BTI Executive Search | Financial Planning and Analysis Specialist
+- [ ] https://in.linkedin.com/jobs/view/commercial-finance-manager-apac-gem-at-ambu-4495008884 | Ambu | Commercial Finance Manager, APAC & GEM
+- [ ] https://in.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714 | Brown-Forman | Finance Analyst
+- [ ] https://in.linkedin.com/jobs/view/analyst-fp-a-at-boston-consulting-group-bcg-4495050093 | Boston Consulting Group (BCG) | Analyst- FP&A
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-axiomsl-implementation-regulatory-reporting-at-obrimo-technologies-4495022019 | Obrimo Technologies | Business Analyst – AxiomSL Implementation & Regulatory Reporting
+- [ ] https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-regnology-regulatory-reporting-at-obrimo-technologies-4495020062 | Obrimo Technologies | Business Analyst – Regnology & Regulatory Reporting
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-ii-fp-a-at-cvent-4495023764 | Cvent | Senior Analyst II FP&A
+- [ ] https://in.linkedin.com/jobs/view/finance-manager-at-qrata-4494993742 | Qrata | Finance Manager
+- [ ] https://in.linkedin.com/jobs/view/senior-analyst-fp-a-at-cvent-4495806561 | Cvent | Senior Analyst FP&A
+- [ ] https://in.linkedin.com/jobs/view/finance-business-partner-at-cushman-wakefield-4495595415 | Cushman & Wakefield | Finance Business Partner
+- [ ] https://in.linkedin.com/jobs/view/manager-fp-a-at-zinnia-4495309033 | Zinnia | Manager, FP&A
+- [ ] https://in.linkedin.com/jobs/view/fp-a-at-done-4495072620 | &Done | FP&A
+- [ ] https://in.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351 | Cargo Players | Commercial & FP&A Analyst
+- [ ] https://in.linkedin.com/jobs/view/manager-business-analyst-at-fidelity-international-4495806615 | Fidelity International | Manager - Business Analyst
+- [ ] https://in.linkedin.com/jobs/view/ops-senior-performance-analyst-at-allianz-partners-4495807606 | Allianz Partners | Ops Senior Performance Analyst
+- [ ] https://in.linkedin.com/jobs/view/workforce-planning-consultant-at-optum-india-4495893349 | Optum India | Workforce Planning Consultant
+- [ ] https://in.linkedin.com/jobs/view/senior-finance-analyst-general-accounting-at-jll-4495841784 | JLL | Senior Finance Analyst - General Accounting
+- [ ] https://in.linkedin.com/jobs/view/manager-%E2%80%93-business-planning-analysis-one-of-the-largest-conglomerates-at-fyndbridge-consultants-advisors-4493873519 | FyndBridge Consultants & Advisors | Manager – Business Planning & Analysis | One of the largest conglomerates
 - [ ] https://in.linkedin.com/jobs/view/lead-business-planning-and-operations-motorola-at-lenovo-4483602503 | Lenovo | Lead - Business Planning and Operations, Motorola
 - [ ] https://in.linkedin.com/jobs/view/fp-a-commercial-finance-lead-india-at-gates-corporation-4483021792 | Gates Corporation | FP&A & Commercial Finance Lead, India
 - [ ] https://in.linkedin.com/jobs/view/group-leader-business-finance-at-niit-4492792067 | NIIT | GROUP LEADER - BUSINESS FINANCE
